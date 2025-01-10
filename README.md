@@ -12,6 +12,3 @@
 	<img src="pic2.jpg" width="400px">
 	
 	
-	</body>
-</head>
-</html>
