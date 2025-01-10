@@ -10,11 +10,7 @@
 	<p style="font-size:138%;"><b><em>Kiriwandeniya Temple</em></b>
 	<br><img src="pic1.jpg" width="400px">
 	<img src="pic2.jpg" width="400px">
-	<figure>
-		<img src="pic1.jpg" width="400px"alt="Description of image">
-		<figcaption><b><em>Kiriwandeniya Temple.</em></b></figcaption>
-	</figure>
-
+	
 	
 	</body>
 </head>
